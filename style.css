@@ -120,7 +120,7 @@ form {
        
    }
    .loginbox h2{
-       margin-top: 0px;
+      
    }
    
 }
@@ -132,8 +132,8 @@ form {
    .gradie, .loginbox{
        flex-direction: column;
        width: 100%;
-       height: 70vh;
-       background-origin: inherit;
+       height: 100vh;
+       
    }
    
 }
